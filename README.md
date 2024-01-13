@@ -10,3 +10,20 @@ In learning with fairness, for every instance, its label can be systematically f
 
 
 
+## Reference 
+```
+@InProceedings{pmlr-v206-zhang23g,
+  title = 	 {Fair Representation Learning with Unreliable Labels},
+  author =       {Zhang, Yixuan and Zhou, Feng and Li, Zhidong and Wang, Yang and Chen, Fang},
+  booktitle = 	 {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {4655--4667},
+  year = 	 {2023},
+  editor = 	 {Ruiz, Francisco and Dy, Jennifer and van de Meent, Jan-Willem},
+  volume = 	 {206},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {25--27 Apr},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v206/zhang23g/zhang23g.pdf},
+  url = 	 {https://proceedings.mlr.press/v206/zhang23g.html},
+}
+```
